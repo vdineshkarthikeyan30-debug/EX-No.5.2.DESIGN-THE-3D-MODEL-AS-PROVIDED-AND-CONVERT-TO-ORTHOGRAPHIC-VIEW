@@ -1,4 +1,5 @@
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
+<img width="996" height="686" alt="Screenshot 2025-10-15 212456" src="https://github.com/user-attachments/assets/529dbb70-ed5b-4a0d-8cfb-e1ccbab314c2" />
 ## DATE:
 
 ## AIM: 
